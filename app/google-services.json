@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979976983604",
+    "project_id": "papalote-museo",
+    "storage_bucket": "papalote-museo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979976983604:android:d8cd5903d7ae8de25d6661",
+        "android_client_info": {
+          "package_name": "com.example.mipapalote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979976983604-hph6p9gjdg1jc4l6kfn3nl74o0a6eks0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mipapalote",
+            "certificate_hash": "0a046c33798b78e1c80b10a6ac067a5c8eb0370a"
+          }
+        },
+        {
+          "client_id": "979976983604-i3qc7q19j5g2d12e70p4mot76rp65af3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0kTR2Rnhtccx4qV9BlLl8VpSsAMZ1lHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979976983604-i3qc7q19j5g2d12e70p4mot76rp65af3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

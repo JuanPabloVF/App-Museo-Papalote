@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MiPapalote</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="password_error">Las contraseñas no coinciden</string>
+    <string name="crea_tu_cuenta">Crea tu cuenta</string>
+    <string name="ingresa_tus_datos">Ingresa tus datos</string>
+    <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirmar_contrasena">Confirmar Contraseña</string>
+    <string name="contrasena_no_coincide">Las contraseñas no coinciden</string>
+    <string name="registrar">Registrar</string>
+    <string name="ya_tengo_cuenta">Ya tengo una cuenta</string>
+    <string name="logo_description">Logo</string>
+    <string name="recupera_tu_contraseña">Logo</string>
+    <string-array name="gender_options">
+        <item>Seleccionar sexo</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="email_hint">Correo</string>
+    <string name="name_hint">Nombre</string>
+    <string name="age_hint">Edad</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar Contraseña</string>
+</resources>
